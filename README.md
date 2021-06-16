@@ -50,4 +50,4 @@ You can have hundreds of these and it will still work!
 
 <5> ✔ Stop my video when my display is off or screen saver begins
 #
-<a href='https://github.com/AribMuhtasim21'>Author: Arib Muhtasim</a>
+<a href='https://github.com/arib21'>Author: Arib Muhtasim</a>
