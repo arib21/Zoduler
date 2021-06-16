@@ -1,0 +1,1 @@
+pyinstaller --clean -F -w -n Zoduler -i iconmain.ico Zoduler.py
